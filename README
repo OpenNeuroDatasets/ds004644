@@ -1,4 +1,4 @@
-This dataset contains raw UTE, MP2RAGE, and PRESS data acquired from 3-month-old Dp1Tyb mice (a model of Down syndrome) and their wildtype littermates. Data were acquired on a 9.4T Bruker BioSpec 94/20 with a cross-coil setup of an 86-mm resonator for transmission and a receive-only 4-channel phased-array surface coil.
+This dataset contains raw in vivo UTE, MP2RAGE, and PRESS data acquired from 3-month-old Dp1Tyb mice (a model of Down syndrome) and their wildtype littermates. Data were acquired on a 9.4T Bruker BioSpec 94/20 with a cross-coil setup of an 86-mm resonator for transmission and a receive-only 4-channel phased-array surface coil.
 
 This dataset has been converted using BrkRaw at 2023-07-19 16:10:05.524416.
 ## How to cite?
